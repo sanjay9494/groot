@@ -28,7 +28,7 @@ public class AsciiCanvas {
     
     public AsciiCanvas(){
         
-    }
+     }
     
     protected void showBars(){
         System.out.print( "BINS : -> ");
